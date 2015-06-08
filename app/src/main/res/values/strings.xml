@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyImageCaptureAndCrop</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_action_image_capture">自拍頭像</string>
+    <string name="string_action_get_content">本地圖片</string>
+    <string name="string_quit">Quit</string>
+</resources>
